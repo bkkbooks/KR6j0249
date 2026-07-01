@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0249/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘莊嚴寶王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1050.xml
+    old_id: T20n1050
+hash: sha256:bf1eda4c615a6329aa8b62a886c87d02447bf80bfc1843f5233274d462102149

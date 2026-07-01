@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6j0249/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0249/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘莊嚴寶王經
+  identifiers:
+    krp: KR6j0249
+    cbeta: T20n1050
+    cbeta_old_id: T20n1050
+    authorityid: CA0004165
+    json_key: T1050
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1050.xml
+    old_id: T20n1050
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0249_000-T.yaml, hash: 'sha256:bf1eda4c615a6329aa8b62a886c87d02447bf80bfc1843f5233274d462102149'}
+  - {seq: 1, filename: KR6j0249_001-T.yaml, hash: 'sha256:c5e92a6d2af69aac26208d8deaed51e975a7e1e09caa89c4b1870bc795fbdca7'}
+  - {seq: 2, filename: KR6j0249_002-T.yaml, hash: 'sha256:6c9a39d3059a8686fb8b59a5344f1e09194ad678d9fdd7e15df9ca7253726f88'}
+  - {seq: 3, filename: KR6j0249_003-T.yaml, hash: 'sha256:25280e16a915f1ead44df215cdc54c4d8c9b78e307739564be31bc2cab507fd2'}
+  - {seq: 4, filename: KR6j0249_004-T.yaml, hash: 'sha256:5d6ae2970c1bffdb0d7ed05bb96a3cce86dce6a07adc9f4356b0ec512cf0dca7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0249_000-T.markers.yaml, hash: 'sha256:eb28a62aa80266e660e5ebf275215946224257a419c65de14d004f235b49009f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0249_001-T.markers.yaml, hash: 'sha256:c4bc3f03e4eaded32dd11be6710cfc5a4540df872a99aa72825de86f9eef6b68'}
+  - {seq: 2, role: markers, filename: assets/KR6j0249_002-T.markers.yaml, hash: 'sha256:694be755ddd00d4b8426a9ea92af37de496d150d608126525b34304e648d7ccc'}
+  - {seq: 3, role: markers, filename: assets/KR6j0249_003-T.markers.yaml, hash: 'sha256:137df013411325ca64417e93c58b64f543d037c501d2450b3783770e053465eb'}
+  - {seq: 4, role: markers, filename: assets/KR6j0249_004-T.markers.yaml, hash: 'sha256:e2a435e2edf5277f0ae3a8ac03e97b34d3f98ceba5edf3eb8baa7bd951c7975c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0249_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5901
+  label: 佛說大乘莊嚴寶王經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0249_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6549
+  label: 佛說大乘莊嚴寶王經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0249_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5691
+  label: 佛說大乘莊嚴寶王經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0249_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6077
+  label: 佛說大乘莊嚴寶王經卷第四
+  type: juan
+  level: 1
+hash: sha256:60a5cfb9d00ac47c31a47bc3c4ac5a2598c24c4292074b28950d65e3ab061f04
